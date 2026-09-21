@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I am at the Institute of Astronomy, Geophysics and Atmospheric Sciences of the University of São Paulo, in Brazil</p>
-    <p><a href="http://lattes.cnpq.br/0168514148341022">Lattes Curriculum</a> | <a href="https://orcid.org/0009-0000-7480-5395">ORCID</a></p>
+    <p><a href="http://lattes.cnpq.br/0168514148341022">Lattes Curriculum</a> | <a href="https://orcid.org/0009-0000-7480-5395">ORCID</a></p> | <a href="https://scholar.google.com/citations?user=cnwgYrUAAAAJ&hl=en">Google Scholar</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
