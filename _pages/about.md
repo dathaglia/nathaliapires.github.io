@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nathalia.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I am at the Institute of Astronomy, Geophysics and Atmospheric Sciences of the University of São Paulo, in Brazil</p>
