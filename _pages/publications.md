@@ -24,5 +24,3 @@ nav_order: 2
 {% bibliography --query @incollection %}
 
 </div>
-
-</div>
