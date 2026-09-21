@@ -13,7 +13,7 @@ profile:
     <p><a href="http://lattes.cnpq.br/0168514148341022">Lattes Curriculum</a> | <a href="https://orcid.org/0009-0000-7480-5395">ORCID</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
