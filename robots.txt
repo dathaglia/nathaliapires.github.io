@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nathaliapires.github.io/sitemap.xml
+Sitemap: https://nathaliadutrapires.github.io/sitemap.xml
