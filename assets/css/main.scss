@@ -25,14 +25,9 @@
 @use "teachings";
 @use "typograms";
 
-body {
+body, p, li, a, td, th, blockquote, figcaption, .profile .more-info, .profile .more-info * {
   font-family: "Open Sans", sans-serif !important;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
   font-family: "Crimson Pro", serif !important;
-}
-.profile .more-info,
-.profile .more-info p,
-.profile .more-info a {
-  font-family: "Open Sans", sans-serif !important;
 }
